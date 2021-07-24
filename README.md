@@ -11,6 +11,6 @@ I'm Gerald
 - 📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/bopgeek)
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='G-mail' height='18' color = 'blue'>](realbopgeek@gmail.com)
 - 😄 Pronouns: He, Him
-- ⚡ Fun fact: I love playing , Football, Table Tennis, come and challenge me, will gladly beat you the way I beat Elezua Victor(victor-el).
+- ⚡ Fun fact: I love playing , Football, Table Tennis, will gladly beat you the way I beat Elezua Victor
 ![BopGeek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=njokuifeanyigerald&theme=cobalt&show_icons=true&&line_height=40)
 ![BopGeek's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=njokuifeanyigerald&theme=cobalt&show_icons=true)<br/>
