@@ -14,5 +14,5 @@ I'm Gerald
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I love playing , Football, Table Tennis, come and challenge me, will gladly beat
                 you the way I beat Elezua Victor(victor-el).
-![Vic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=njokuifeanyigerald&theme=cobalt&show_icons=true&&line_height=40)
-![Vic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=njokugeraldifeanyi&theme=cobalt&show_icons=true)<br/>
+![BopGeek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=njokuifeanyigerald&theme=cobalt&show_icons=true&&line_height=40)
+![BopGeek's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=njokuifeanyigerald&theme=cobalt&show_icons=true)<br/>
