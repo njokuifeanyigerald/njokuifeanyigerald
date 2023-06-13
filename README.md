@@ -3,7 +3,7 @@
 
 I'm Gerald
 
-- 🔭 I’m currently working on python (Django & Flask) projects
+- 🔭 I’m currently working on Devops, python (Django) projects
 - 🌱 I’m currently pushing to my fullstack level  with React Js. Have a little knowledge about the cloud, docker, kubernetes, argocd
 - 👯 I’m looking to collaborate on Web(backend) and Fullstack projects and Full-time roles
 - 🤔 I’m looking for help with Cloud and also Job
